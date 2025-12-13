@@ -150,8 +150,6 @@ h1 {
     height: 10px;
     border-radius: 50%;
     background-color: #ccc;
-    cursor: pointer;
-    transition: background-color 0.3s;
 }
 
 .dot.active {
